@@ -1,0 +1,13 @@
+{
+  "name": "tiny-german-quest-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API and static file server for Tiny German Quest",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
